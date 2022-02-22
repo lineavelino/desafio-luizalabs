@@ -1,0 +1,24 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    color: #1b1a1a;
+}
+
+h2 {
+    color: #FFFFFF;
+    padding: 1em;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(355deg, #b9fdff 0, #84daff 25%, #3cb5f2 50%, #0091d7 75%, #0076FE 100%);;
+}
+
+.btn {
+    width: 100%;
+    background-color: #0091d7;
+    border: none;
+}
