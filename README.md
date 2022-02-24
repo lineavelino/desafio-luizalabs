@@ -1,7 +1,9 @@
 # Desafio Luizalabs - Desenvolvedor Jr
 
-<img src="Screenshot_1.jpg" alt="tela 1">
-<img src="Screenshot_2.jpg" alt="tela 2">
+<div>
+  <img src="./assets/img/Screenshot_1.jpg" alt="tela 1">
+  <img src="./assets/img/Screenshot_2.jpg" alt="tela 2">
+ </div>
 
 ## Parte 1 - Front End
 
